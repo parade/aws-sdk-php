@@ -27,8 +27,13 @@ AWS SDK for PHP
     service-cloudfront
     service-cloudfront-20120505
     service-cloudsearch
+    service-cloudsearch-20110201
+    service-cloudsearchdomain
     service-cloudtrail
     service-cloudwatch
+    service-cognitoidentity
+    service-cognitosync
+    service-cloudwatchlogs
     service-datapipeline
     service-directconnect
     service-dynamodb
@@ -47,6 +52,7 @@ AWS SDK for PHP
     service-rds
     service-redshift
     service-route53
+    service-route53domains
     service-s3
     service-ses
     service-simpledb
@@ -119,9 +125,25 @@ Service-Specific Guides
 
   * :doc:`Using the older 2011-02-01 API version <service-cloudsearch-20110201>`
 
+* Amazon CloudSearchDomain
+
+  .. indexlinks:: CloudSearchDomain
+
 * Amazon CloudWatch
 
   .. indexlinks:: CloudWatch
+
+* Amazon Cognito Identity
+
+  .. indexlinks:: CognitoIdentity
+
+* Amazon Cognito Sync
+
+  .. indexlinks:: CognitoSync
+
+* Amazon CloudWatch Logs
+
+  .. indexlinks:: CloudWatchLogs
 
 * Amazon DynamoDB
 
@@ -165,6 +187,10 @@ Service-Specific Guides
 * Amazon Route 53
 
   .. indexlinks:: Route53
+
+* Amazon Route 53 Domains
+
+  .. indexlinks:: Route53Domains
 
 * Amazon Simple Email Service (Amazon SES)
 
